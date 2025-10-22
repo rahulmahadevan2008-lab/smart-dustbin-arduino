@@ -16,6 +16,11 @@ This project uses Ultrasonic sensor to detect our hand within the range of 5 cm 
 2. If an object is detected within 20 cm, the servo motor rotates to open the lid.
 3. If no object is detected, the lid remains closed.
 
+## For reference: Image 1: <img width="590" height="439" alt="image" src="https://github.com/user-attachments/assets/bc61c077-0a2e-48c4-8dcd-20abfb0e8ef6" />
+
+## For reference: Image 2: <img width="507" height="424" alt="image" src="https://github.com/user-attachments/assets/f9107ab6-0688-4685-82fa-cf79a65545ea" />
+
+
 ## Project Management: 
 All 7 tasks were tracked and completed using GitHub Projects. [In projects]    
   [View the Project Board](https://github.com/rahulmahadevan2008-lab/smart-dustbin-arduino/projects)
