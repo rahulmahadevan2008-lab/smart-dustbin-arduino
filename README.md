@@ -10,6 +10,7 @@ This project uses Ultrasonic sensor to detect our hand within the range of 5 cm 
         6. Power Source (Power Bank)
         7. Dustbin Lid (hinged)
         8. Mounting Materials (Tape, glue, or screws to fix components in place)
+        9. Bread Board
 ##  How It Works
 1. The ultrasonic sensor emits a 40 kHz sound pulse.
 2. If an object is detected within 20 cm, the servo motor rotates to open the lid.
