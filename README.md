@@ -10,7 +10,7 @@ This project uses Ultrasonic sensor to detect our hand within the range of 5 cm 
         6. Power Source (Power Bank)
         7. Dustbin Lid (hinged)
         8. Mounting Materials (Tape, glue, or screws to fix components in place)
-## ⚙️ How It Works
+##  How It Works
 1. The ultrasonic sensor emits a 40 kHz sound pulse.
 2. If an object is detected within 20 cm, the servo motor rotates to open the lid.
 3. If no object is detected, the lid remains closed.
@@ -18,7 +18,8 @@ This project uses Ultrasonic sensor to detect our hand within the range of 5 cm 
 ## Project Management: 
 All 7 tasks were tracked and completed using GitHub Projects. [In projects]    
   [View the Project Board](https://github.com/rahulmahadevan2008-lab/smart-dustbin-arduino/projects)
-##Working sample:##{Based on the information in the code}
+
+**Working sample:{Based on the information in the code}**
 When an object is detected between the distance range of 5 to 20cm then the lid opens up to 90 degrees and holds it for 3 seconds and closes the lid back to 0 degree.
 a . The trig pin triggers the ultrasonic sensor to emit ultrasonic sound of 40KHz. This sound is received by the echo sensor upon bouncing       back from the nearby object. The time taken by the echo pin to receive the sound is used by the arduino to calculate the distance of the     object from the lid.
 b. The whole process of sending and receiving happens due to some changes in the trig pin. They are:
